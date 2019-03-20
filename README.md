@@ -1,12 +1,12 @@
 # SSH Fuzzing detector
 
-cyber lab task 1:
+Cyber lab task 1:
 
-### what is fuzzing?
+### What is fuzzing?
 
 https://en.wikipedia.org/wiki/Fuzzing
 
-### how it works:
+### How it works:
 
 run only fuzzing_detector.py,
 
