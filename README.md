@@ -1,4 +1,4 @@
-# SSH Fuzzing detector
+# SSH Fuzzing attack detector
 
 Cyber lab task 1:
 
